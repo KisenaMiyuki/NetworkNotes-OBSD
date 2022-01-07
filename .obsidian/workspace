@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "409a6db55899821e",
+    "type": "split",
+    "children": [
+      {
+        "id": "95d64a2616c8ea8c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History of The Internet.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b0e61a9d11b147c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d02476fe1f578648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bde465908e9ff8a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb049a72343cc8ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b8488be7f524480",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eaff51b6b2773dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8825f7c6c724587",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "History of The Internet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "95d64a2616c8ea8c",
+  "lastOpenFiles": [
+    "History of The Internet.md",
+    "Internetworking with TCP IP.md",
+    "TCP／IP.md",
+    "Network.md",
+    "Public and Private Networks.md",
+    "Network Applications.md",
+    "OSI.md",
+    "Network Model.md",
+    "Network Architecture.md",
+    "Networking Standards.md"
+  ]
+}

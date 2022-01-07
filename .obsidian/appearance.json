@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 17,
+  "cssTheme": "Harmonic",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "Harmonic-metadata-modify",
+    "more-paragraph-spacing"
+  ]
+}

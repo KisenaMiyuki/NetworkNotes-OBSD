@@ -1,0 +1,5 @@
+.markdown-preview-view .frontmatter-container {
+	border-radius: 4px;
+	background-color: hsla(var(--accent-h),var(--accent-s),var(--accent-l),0.1);
+	border-bottom: 4px solid hsla(var(--accent-h),var(--accent-s),var(--accent-l),0.1);
+}
