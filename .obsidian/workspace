@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "57f6b19c5d611d19",
+        "id": "0e8b51fd5ef01ce0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Email.md",
-            "mode": "preview",
+            "file": "Domain Name Server.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "do",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 282.49999809265137
   },
   "right": {
     "id": "4b8488be7f524480",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Email.md",
+                "file": "Domain Name Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "57f6b19c5d611d19",
+  "active": "0e8b51fd5ef01ce0",
   "lastOpenFiles": [
+    "Domain Name Server.md",
     "Email.md",
+    "TCP／IP.md",
+    "Network Model.md",
     "Multipurpose Internet Mail Extensions.md",
     "Simple Mail Transfer Protocol.md",
     "Network Applications.md",
     "Trivial File Transfer Protocol.md",
     "File Transfer Protocol.md",
-    "Network File System.md",
-    "Network Model.md",
-    "Internet.md",
-    "Network.md"
+    "Network File System.md"
   ]
 }
