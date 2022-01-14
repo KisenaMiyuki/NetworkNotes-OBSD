@@ -16,6 +16,8 @@ DNS 也使用了[[Client-Server Model]]。
 Top Level Domain：例如 .com .edu .gov .net .org
 
 ## DNS 服务器的层级
- [https://www.youtube.com/watch?v=72snZctFFtA](https://www.youtube.com/watch?v=72snZctFFtA)
+- [ ] [DNS Explained | YouTube](https://www.youtube.com/watch?v=72snZctFFtA)
 
-   DNS 服务器分为 Root DNS Server、Top-Level Domain (TLD) Servers、Authoritative DNS Server 以及（一般不算进层级里的）Local DNS Server。
+DNS 服务器分为 Root DNS Server、Top-Level Domain (TLD) Servers、Authoritative DNS Server 以及（一般不算进层级里的）Local DNS Server。
+
+Root DNS Server 全球有 13 台。
