@@ -20,4 +20,19 @@ Top Level Domain：例如 .com .edu .gov .net .org
 
 DNS 服务器分为 Root DNS Server、Top-Level Domain (TLD) Servers、Authoritative DNS Server 以及（一般不算进层级里的）Local DNS Server。
 
+- [ ] 什么是Local DNS Server？
+
 Root DNS Server 全球有 13 台。
+
+## DNS Autonomy
+DNS自治：每个组织都能够自由分配或修改域名，无需通知中央权力机关。
+
+每个组织都被允许在层级内运行自己的DNS服务器。
+
+## 名字解析
+名字解析器的作用就是联系 DNS 服务器解析域名对应的 IP 地址。
+
+每个解析器都记有一台或多台 Local DNS Server 的地址。
+
+## DNS Caching
+- [ ] 什么是DNS Caching？

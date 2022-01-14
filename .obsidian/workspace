@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "do",
+                "query": "parad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,12 +93,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "0e8b51fd5ef01ce0",
   "lastOpenFiles": [
     "Domain Name Server.md",
+    "Message-oriented Protocols.md",
     "Email.md",
     "TCP／IP.md",
     "Network Model.md",
@@ -106,7 +106,6 @@
     "Simple Mail Transfer Protocol.md",
     "Network Applications.md",
     "Trivial File Transfer Protocol.md",
-    "File Transfer Protocol.md",
-    "Network File System.md"
+    "File Transfer Protocol.md"
   ]
 }
