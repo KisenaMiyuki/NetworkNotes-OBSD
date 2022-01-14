@@ -45,3 +45,14 @@ DNS 自治：每个组织都能够自由分配或修改域名，无需通知中�
 name - 域名
 value - 类似 IP 地址
 type - 说明了 value 到底是什么
+
+一些 type：
+- ==A==：直接对应的 IP 地址
+- ==MX==：Mail eXchanger
+- [ ] 什么是 Mail eXchanger？
+- ==NS==：转发请求到另一台 DNS 服务器上
+- ==CNAME==：把域名重定向到另一台电脑上，便于更换服务器电脑以及在同一台电脑上架设多个服务器（例如 FTP 和邮件）
+
+## DNS 字符库
+由于 DNS 使用了 ASCII 字符库，所以很多国际字符无法被表示。
+因此 [IETF (互联网工程任务组)](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E5%B7%A5%E7%A8%8B%E4%BB%BB%E5%8A%A1%E7%BB%84) 使用 Unicode 将这些字符转译成 ASCII 字符。（[IDNA (国际化域名)](https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%8C%96%E5%9F%9F%E5%90%8D)）
