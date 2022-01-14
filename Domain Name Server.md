@@ -16,4 +16,4 @@ DNS也使用了[[Client-Server Model]]。
 Top Level Domain：例如 .com .edu .gov .net .org
 
 ## DNS服务器的层级
-<img src="Imgs\Pasted image 20220114163023.png" align=right>
+![[Pasted image 20220114163023.png]]
