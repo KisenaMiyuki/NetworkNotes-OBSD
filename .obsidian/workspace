@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Communication Model.md",
+            "file": "Analogue & Digital Signal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication Model.md",
+                "file": "Analogue & Digital Signal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "0e8b51fd5ef01ce0",
   "lastOpenFiles": [
+    "Analogue & Digital Signal.md",
     "Communication Model.md",
     "@REVIEWS.md",
     "Domain Name Server.md",
@@ -104,7 +105,6 @@
     "Message-oriented Protocols.md",
     "Trivial File Transfer Protocol.md",
     "File Transfer Protocol.md",
-    "OSI.md",
-    "TCP／IP.md"
+    "OSI.md"
   ]
 }
