@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Email.md",
-            "mode": "preview",
+            "file": "@REVIEWS.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,8 +69,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Email.md",
-                "collapseAll": false,
+                "file": "@REVIEWS.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -96,11 +96,11 @@
   },
   "active": "0e8b51fd5ef01ce0",
   "lastOpenFiles": [
+    "@REVIEWS.md",
+    "Domain Name Server.md",
     "Email.md",
     "Multipurpose Internet Mail Extensions.md",
-    "@REVIEWS.md",
     "Message-oriented Protocols.md",
-    "Domain Name Server.md",
     "Trivial File Transfer Protocol.md",
     "File Transfer Protocol.md",
     "OSI.md",

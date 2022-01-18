@@ -1,7 +1,11 @@
-- HTML使用declarative paradigm
-- Data Representation决定了syntax（？
-- HTTP经典4方法：GET、POST、HEAD、DELETE
-- FTP可传输any file
-- Data是fundamental storage abstraction
+- HTML 使用 **declarative paradigm**
+- **Data Representation** 决定了 syntax（？
+- HTTP 经典 4 方法：GET、POST、HEAD、DELETE
+- FTP 可传输 any file
+- Data 是 fundamental storage abstraction
 - Rationale for using TFTP：device not enough memory & processing capability to use FTP
-- 
+- DNS 用**点**分隔 names
+- DNS 没有限制 **segment** 的数量（由点分隔的部分叫 segment）
+- Organizations 可以拥有多个 DNS 机器
+- DNS sends **DNS reply** to DNS request
+- Name Resolution Process 使用message的communication paradigm，因为请求体积小

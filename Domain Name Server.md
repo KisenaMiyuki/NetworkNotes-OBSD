@@ -16,11 +16,11 @@ DNS 也使用了[[Client-Server Model]]。
 Top Level Domain：例如 .com .edu .gov .net .org
 
 ## DNS 服务器的层级
-- [ ] [DNS Explained | YouTube](https://www.youtube.com/watch?v=72snZctFFtA)
+- [x] [DNS Explained | YouTube](https://www.youtube.com/watch?v=72snZctFFtA)
 
 DNS 服务器分为 Root DNS Server、Top-Level Domain (TLD) Servers、Authoritative DNS Server 以及（一般不算进层级里的）Local DNS Server。
 
-- [ ] 什么是 Local DNS Server？
+- [x] 什么是 Local DNS Server？
 
 Root DNS Server 全球有 13 台。
 
@@ -35,7 +35,7 @@ DNS 自治：每个组织都能够自由分配或修改域名，无需通知中�
 每个解析器都记有一台或多台 Local DNS Server 的地址。
 
 ## DNS Caching
-- [ ] 什么是 DNS Caching？
+- [x] 什么是 DNS Caching？
 
 ## DNS Records
 每个 DNS 项目的结构如下：
@@ -49,7 +49,7 @@ type - 说明了 value 到底是什么
 一些 type：
 - ==A==：直接对应的 IP 地址
 - ==MX==：Mail eXchanger
-- [ ] 什么是 Mail eXchanger？
+- [x] 什么是 Mail eXchanger？
 - ==NS==：转发请求到另一台 DNS 服务器上
 - ==CNAME==：把域名重定向到另一台电脑上，便于更换服务器电脑以及在同一台电脑上架设多个服务器（例如 FTP 和邮件）
 
