@@ -87,8 +87,19 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "04e79bad060bac40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Analogue & Digital Signal.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",

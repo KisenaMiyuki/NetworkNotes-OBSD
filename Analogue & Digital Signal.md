@@ -25,3 +25,13 @@ https://www.youtube.com/watch?v=ZWdT-6Ld71Q&t=56s
 - Phase【相位】*shifted*
 - Wavelength【波长】*length of a cycle*
 
+## Types of Analog Signals
+
+### Simple Signals
+由单一正弦波组成的信号，无法继续细分。
+听起来像是普通的音调。
+这种信号不传递什么信息。
+
+### Composite Signals
+由多个正弦波混合组成的信号，可以利用傅里叶变换细分为多个正弦波。
+这种信号由发送者编码发送，由接收者解码获取，即可传递信息。
