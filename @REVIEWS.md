@@ -1,0 +1,7 @@
+- HTML使用declarative paradigm
+- Data Representation决定了syntax（？
+- HTTP经典4方法：GET、POST、HEAD、DELETE
+- FTP可传输any file
+- Data是fundamental storage abstraction
+- Rationale for using TFTP：device not enough memory & processing capability to use FTP
+- 
