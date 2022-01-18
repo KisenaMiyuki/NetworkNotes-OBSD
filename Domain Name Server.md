@@ -20,8 +20,6 @@ Top Level Domain：例如 .com .edu .gov .net .org
 
 DNS 服务器分为 Root DNS Server、Top-Level Domain (TLD) Servers、Authoritative DNS Server 以及（一般不算进层级里的）Local DNS Server。
 
-- [x] 什么是 Local DNS Server？
-
 Root DNS Server 全球有 13 台。
 
 ## DNS Autonomy

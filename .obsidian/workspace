@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@REVIEWS.md",
+            "file": "Communication Model.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@REVIEWS.md",
+                "file": "Communication Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "0e8b51fd5ef01ce0",
   "lastOpenFiles": [
+    "Communication Model.md",
     "@REVIEWS.md",
     "Domain Name Server.md",
     "Email.md",
@@ -104,7 +105,6 @@
     "Trivial File Transfer Protocol.md",
     "File Transfer Protocol.md",
     "OSI.md",
-    "TCP／IP.md",
-    "Network Model.md"
+    "TCP／IP.md"
   ]
 }
