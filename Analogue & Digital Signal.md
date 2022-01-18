@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=ZWdT-6Ld71Q&t=56s
 
 ### Sinusoidal Waves（Sine Waves）
 **Periodic** wave that oscillates regularly and smoothly between negative and positive value
+正弦波。组成自然界中大部分东西的最基础的波。
 ![[Pasted image 20220118173635.png]]
 
 
