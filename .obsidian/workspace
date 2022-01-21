@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Media Transmission.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

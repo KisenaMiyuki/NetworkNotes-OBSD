@@ -23,3 +23,6 @@
 	- ==Shielded Twisted Wire (STP)== - 较贵，抗干扰能力较强
 	- ==Unshielded Twisted Wire (UTP)== - 便宜，抗干扰能力不太强
 - ==Coaxial Cable== / 同轴电缆 - 贵，抗干扰能力强
+- 
+- Optical Fiber / 光纤
+- [ ] 光纤的种类
