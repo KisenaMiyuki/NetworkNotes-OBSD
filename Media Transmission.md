@@ -19,3 +19,6 @@
 ![[Pasted image 20220121162313.png]]
 
 ## Wires
+- Twisted Wires / 双绞线
+	- Shielded & Unshielded
+- Coaxial Cable / 同轴电缆
