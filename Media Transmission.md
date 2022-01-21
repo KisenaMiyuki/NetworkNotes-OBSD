@@ -17,3 +17,5 @@
 ---
 ![[Pasted image 20220121162250.png]]
 ![[Pasted image 20220121162313.png]]
+
+## Wires
