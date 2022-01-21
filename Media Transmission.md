@@ -21,7 +21,7 @@
 ## Wires
 - Twisted Wires / 双绞线
 	- ==Shielded Twisted Wire (STP)== - 较贵，抗干扰能力较强
-	- ==Unshielded Twisted Wire (UTP)== - 便宜，抗干扰能力不太强
+	- ==Unshielded Twisted Wire (UTP)== - 便宜，抗干扰能力不太强，便于安装（尤其使用Thinnet）
 - ==Coaxial Cable== / 同轴电缆 - 贵，抗干扰能力强
 - 
 - Optical Fiber / 光纤
