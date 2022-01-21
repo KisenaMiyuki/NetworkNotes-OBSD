@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analogue & Digital Signal.md",
-            "mode": "preview",
+            "file": "Media Transmission.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analogue & Digital Signal.md",
+                "file": "Media Transmission.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analogue & Digital Signal.md"
+                "file": "Media Transmission.md"
               }
             }
           }
@@ -107,6 +107,7 @@
   },
   "active": "0e8b51fd5ef01ce0",
   "lastOpenFiles": [
+    "Media Transmission.md",
     "Analogue & Digital Signal.md",
     "Communication Model.md",
     "@REVIEWS.md",
@@ -115,7 +116,6 @@
     "Multipurpose Internet Mail Extensions.md",
     "Message-oriented Protocols.md",
     "Trivial File Transfer Protocol.md",
-    "File Transfer Protocol.md",
-    "OSI.md"
+    "File Transfer Protocol.md"
   ]
 }
