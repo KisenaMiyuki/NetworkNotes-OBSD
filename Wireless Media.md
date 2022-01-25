@@ -7,4 +7,13 @@
 - 离开工作环境后急需网络资源
 
 ## 分类
-（见
+（图见[[Media Transmission]]）
+
+**Point-to-Point (P2P)**
+- IR【红外线】
+- Laser【激光】
+
+都需要line of sight
+
+**Point-to-Multipoint (P2MP)**
+- Bluetooth
