@@ -16,4 +16,6 @@
 都需要line of sight
 
 **Point-to-Multipoint (P2MP)**
-- Bluetooth
+- Bluetooth【蓝牙】
+- Terrestrial Radio【电台广播】
+- Satellite【卫星】
