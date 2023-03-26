@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mim",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,6 +108,7 @@
   "active": "0e8b51fd5ef01ce0",
   "lastOpenFiles": [
     "Wireless Media.md",
+    "Concurrent Servers.md",
     "Media Transmission.md",
     "Pasted image 20220125160554.png",
     "Email.md",
@@ -115,7 +116,6 @@
     "Analogue & Digital Signal.md",
     "Communication Model.md",
     "Domain Name Server.md",
-    "Multipurpose Internet Mail Extensions.md",
-    "Message-oriented Protocols.md"
+    "Multipurpose Internet Mail Extensions.md"
   ]
 }
